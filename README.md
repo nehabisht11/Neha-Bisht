@@ -1,4 +1,4 @@
 # Neha-Bisht
-My first Git repository 
+My first Git repository .
 <br>
-Autor - Neha Bisht
+Autor - Neha Bisht.
